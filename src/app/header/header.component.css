@@ -1,0 +1,24 @@
+.header{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #2F4053;
+}
+.header-item-container{
+    width: auto;
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+}
+.header-items{
+    width: 150px;
+    height: 25px;
+    padding: 22px 0px;
+    text-align: center;
+    color: white;
+    font-size: 1.4em;
+    flex-direction: row;
+    border: 1px solid white;
+
+}
